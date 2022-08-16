@@ -1,0 +1,41 @@
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+    font-family: Times New Roman;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677
+}
+
+.padding30 {
+  padding-left: 21mm;
+}
+
+
+.Negrita {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.negrita2 {
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+}
+
+h3 {
+    display: block;
+    margin: auto;
+    background-color:#005677; 
+    color: white;
+}
